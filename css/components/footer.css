@@ -1,0 +1,24 @@
+.footer {
+  background-color: #3E3C43;
+  text-align: center;
+  padding: 50px;
+  color: white;
+  margin: auto;
+  display: block;
+}
+
+.footer h2 {
+  font-weight: 500;
+  margin: 0;
+}
+
+.links a {
+  margin: 20px;
+  color: #C17649;
+  font-size: 45px;
+}
+
+.links a:hover {
+  color: #EEA554;
+  transition: 0.3s;
+}
